@@ -1,0 +1,18 @@
+.cart{
+    background-color: #FFE0B3;
+    padding: 23px;
+    position: sticky;
+    top: 80px;
+    
+}
+.order-summary-title{
+    text-align:center;
+    font-size:25px;
+     
+}
+.cart p {
+    font-size: 17px;
+}
+.cart h6{
+    font-size: 18px;
+}
